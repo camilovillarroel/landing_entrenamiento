@@ -1,4 +1,9 @@
-nav{
-    position: sticky;
-    top: 0px;
+/* .parrafos{
+    margin-top: 10px;
+} */
+.paddingdelcontenedor{
+    margin: 15px;
+}
+.jumbotron{
+    margin-bottom: 0%;
 }
